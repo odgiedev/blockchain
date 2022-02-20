@@ -5,14 +5,14 @@ from datetime import datetime
 blockchain = []
 
 block1 = {
-    "sender" : "Diego",
-    "recipient" : "Leona",
+    "sender" : "Rick",
+    "recipient" : "Morty",
     "amount" : "1 BTC",
 }
 
 block2 = {
-    "sender" : "Lula",
-    "recipient" : "Bolsonaro",
+    "sender" : "Wirty",
+    "recipient" : "Greg",
     "amount" : "2 BTC",
 }
 
